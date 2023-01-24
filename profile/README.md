@@ -1,7 +1,7 @@
 <!-- start tech tree icons -->
 <div align="center">
   <img style="margin-right: 6px" alt="javascript icon" src="../media/icons/javascript.svg" width="35px">
-  <img style="margin-right: 6px" alt="react icon" src="../../media/icons/react.svg" width="35px">
+  <img style="margin-right: 6px" alt="react icon" src="../media/icons/react.svg" width="35px">
   <img style="margin-right: 6px" alt="nodejs icon" src="../media/icons/nodejs.svg" width="35px">
   <img style="margin-right: 6px" alt="expressjs icon" src="../media/icons/expressjs.svg" width="35px">
   <img style="margin-right: 6px" alt="mongodb icon" src="../media/icons/mongodb.svg" width="35px">
