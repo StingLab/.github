@@ -2,9 +2,9 @@
 
 <!-- about repository badges start -->
 <div align="center">
-  <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/STRINGLABITSOLUTIONS">
+  <img style="margin-right: 6px" alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/StingLab">
   <img style="margin-right: 6px" alt="profile hits counter" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSTRINGLABITSOLUTIONS1212%2Fhit-counter">
-  <img style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/STRINGLABITSOLUTIONS?label=Follow"/>
+  <img style="margin-right: 6px" alt="follow badge"src="https://img.shields.io/github/followers/StingLab?label=Follow"/>
   <img style="margin-right: 6px" alt="thanks badge" src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg">
 </div>
 <!-- about repository badges end -->
